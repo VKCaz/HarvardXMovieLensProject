@@ -811,5 +811,4 @@ The above, as well as other considerations would definitely build on this projec
 
 # References
 
-Sources for data sets
-Other resources used.
+All references are linked within the document.
